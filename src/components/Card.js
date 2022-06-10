@@ -1,7 +1,7 @@
 function Card() {
   return (
     <div id="card">
-         <div id="topRow">
+      <div id="topRow">
         <i class="bi bi-house-door icon" id="houseIcon"></i>
         <div id="title">Unit 92</div>
       </div>
@@ -25,8 +25,5 @@ function Card() {
     </div>
   );
 }
-
-// ReactDOM.render(<App/>,
-//     document.getElementById('root'));
 
 export default Card;
