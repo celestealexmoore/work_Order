@@ -27,8 +27,7 @@ What was required:
 ![Photo 1](./assets/original.png)
 
 What I've built:  
-(Coming Soon)
-<!-- ![Photo 1](./assets/photos/exampleImage2.png) -->
+![Photo 1](./assets/replica.png)
 
 ## Deployed Site
 
