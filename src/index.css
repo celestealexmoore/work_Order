@@ -4,11 +4,16 @@
   --white: #FFF;
 }
 
+body { min-height: 100vh; }
+
 body {
   background: black;
   color: var(--white);
   display: flex;
+  min-height: 100vh;
+  /* must give container a height property to use align-items */
   justify-content: center;
+  align-items: center;
   padding: 10px;
 }
 
@@ -20,6 +25,7 @@ body {
   /* width: 100%; */
   padding: 13px;
   border-left: 3px solid var(--highlight-blue);
+  align-self: center;
 }
 
 #topRow {
