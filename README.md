@@ -34,7 +34,7 @@ What I've built:
    [The link to view this work is coming soon. Until then, click here to view my other repositories.](https://github.com/celestealexmoore?tab=repositories)
 
 ## Features
-    - Single-page application built with HTML, CSS, JavaScript, React.js and Bootstrap.
+    - Single-page application built with HTML, CSS, JavaScript, React.js and Bootstrap Icons.
 
 ## Contributors
 
