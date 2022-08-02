@@ -31,7 +31,7 @@ What I've built:
 
 ## Deployed Site
 
-   [The link to view this work is coming soon. Until then, click here to view my other repositories.](https://github.com/celestealexmoore?tab=repositories)
+   [Here is the link to view my work.](http://celestealexmoore.github.io/work_Order)
 
 ## Features
     - Single-page application built with HTML, CSS, JavaScript, React.js and Bootstrap Icons.
